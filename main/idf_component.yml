@@ -1,0 +1,19 @@
+dependencies:
+  idf: ">=6.2"
+  esp-mosaico-bsp:
+    version: "*"
+    override_path: "../../../submodule/esp-mosaico-bsp/components/esp-mosaico-bsp"
+  esp_iris:
+    version: "*"
+    override_path: "../../../submodule/esp-mosaico-utils/ESP-Iris/components/esp_iris"
+  espressif/esp-gsp: "==1.5.1"
+  # The BSP display adapter uses headers deprecated by LVGL 9.6.
+  lvgl/lvgl: "==9.5.0"
+  mosaico_module_camera:
+    override_path: "../../../submodule/esp-mosaico-bsp/components/mosaico_module_camera"
+  espressif/esp_new_jpeg: "*"
+  # ESP-IDF 6.2 no longer ships a bundled `json` component, so cJSON is a
+  # registry dependency now. Anything that lists `json` in REQUIRES, which is
+  # most existing examples and most of the guidance written before 6.x, fails
+  # to configure with "unknown name".
+  espressif/cjson: "*"

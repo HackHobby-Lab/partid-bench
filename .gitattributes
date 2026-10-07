@@ -1,0 +1,6 @@
+# Sources were written on Windows with mixed endings. Normalise in the repo so
+# a clone on Linux does not see a whole file as changed.
+* text=auto eol=lf
+
+*.png binary
+*.ttf binary
