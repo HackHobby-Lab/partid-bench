@@ -2,8 +2,13 @@
   "schema": "mosaico-ideas/project-upload/v1",
   "project": {
     "title": "Part ID",
-    "categories": ["sensors", "display"],
-    "boards": ["camera"],
+    "categories": [
+      "sensors",
+      "display"
+    ],
+    "boards": [
+      "camera"
+    ],
     "tags": [
       "camera",
       "vision",
@@ -25,7 +30,12 @@
   },
   "content": {
     "readme": "README.md",
-    "covers": ["docs/screenshot.png"],
+    "covers": [
+      "docs/hero.jpg",
+      "docs/identifying.jpg",
+      "docs/screenshot.png",
+      "docs/hardware.jpg"
+    ],
     "resources": [],
     "attachments": []
   },

@@ -1,12 +1,25 @@
 # Part ID
 
+![Part ID running on ESP-Mosaico](docs/hero.jpg)
+
 Point the camera at a component on a board. Tap. The part number comes back on
 the screen, with one short line saying what the part is.
 
-![Part ID reading an R010 current sense resistor off a PCB](docs/screenshot.png)
+[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](MOSAICO_IDEAS_URL)
+[![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](INSTAGRAM_URL)
 
-That is the real display, not a mockup. It read an R010 shunt in twenty
-seconds flat.
+## It works
+
+![Part ID naming a voltage regulator on a live board](docs/identifying.jpg)
+
+A 233 marking on a board pulled off the bench, read and named in one tap. No
+datasheet, no squinting, no typing a half legible code into a search box.
+
+![The result panel in close up](docs/screenshot.png)
+
+The part number gets its own row in the accent colour. What the part is sits
+underneath in plain text. That is the whole output, and it is meant to be read
+at arm's length with a soldering iron in the other hand.
 
 ## Contents
 
@@ -19,9 +32,12 @@ seconds flat.
 7. [Driving it over RPC](#driving-it-over-rpc)
 8. [How the code is laid out](#how-the-code-is-laid-out)
 9. [Troubleshooting](#troubleshooting)
-10. [Licence](#licence)
+10. [Where else to find this](#where-else-to-find-this)
+11. [Licence](#licence)
 
 ## What you need
+
+![The core board with the camera module attached](docs/hardware.jpg)
 
 ESP-Mosaico, a modular board built on ESP32-S31. The core board, plus the
 camera module seated in the LEFT slot. That is the whole bill of materials.
@@ -189,6 +205,15 @@ on thinking. Pick a different model.
 
 **The board is unreachable.** Hold the AI button on GPIO7 while powering on to
 boot back into Vibe Mode.
+
+## Where else to find this
+
+Flash it from the Mosaico Ideas gallery and skip the clone entirely. Build
+photos, the bits that did not work, and whatever gets built next go on
+Instagram.
+
+[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](MOSAICO_IDEAS_URL)
+[![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](INSTAGRAM_URL)
 
 ## Licence
 
