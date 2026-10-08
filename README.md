@@ -5,8 +5,8 @@
 Point the camera at a component on a board. Tap. The part number comes back on
 the screen, with one short line saying what the part is.
 
-[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](MOSAICO_IDEAS_URL)
-[![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](INSTAGRAM_URL)
+[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](https://mosaico-ideas.espressif.com/firmware/7d1bc919-f103-428d-87dc-d993cfa9e504)
+[![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackhobby_lab/)
 
 ## It works
 
@@ -212,8 +212,8 @@ Flash it from the Mosaico Ideas gallery and skip the clone entirely. Build
 photos, the bits that did not work, and whatever gets built next go on
 Instagram.
 
-[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](MOSAICO_IDEAS_URL)
-[![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](INSTAGRAM_URL)
+[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](https://mosaico-ideas.espressif.com/firmware/7d1bc919-f103-428d-87dc-d993cfa9e504)
+[![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackhobby_lab/)
 
 ## Licence
 
