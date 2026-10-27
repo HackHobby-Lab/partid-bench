@@ -5,7 +5,7 @@
 Point the camera at a component on a board. Tap. The part number comes back on
 the screen, with one short line saying what the part is.
 
-[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](https://mosaico-ideas.espressif.com/firmware/7d1bc919-f103-428d-87dc-d993cfa9e504)
+[![Flash the prebuilt bundle](https://img.shields.io/badge/Flash%20it-Prebuilt%20bundle-FF4C01?style=for-the-badge)](prebuilt/)
 [![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackhobby_lab/)
 
 ## It works
@@ -208,11 +208,11 @@ boot back into Vibe Mode.
 
 ## Where else to find this
 
-Flash it from the Mosaico Ideas gallery and skip the clone entirely. Build
+Flash the [prebuilt bundle](prebuilt/) and skip the toolchain entirely. Build
 photos, the bits that did not work, and whatever gets built next go on
 Instagram.
 
-[![Try it on Mosaico Ideas](https://img.shields.io/badge/Try%20it-Mosaico%20Ideas-FF4C01?style=for-the-badge)](https://mosaico-ideas.espressif.com/firmware/7d1bc919-f103-428d-87dc-d993cfa9e504)
+[![Flash the prebuilt bundle](https://img.shields.io/badge/Flash%20it-Prebuilt%20bundle-FF4C01?style=for-the-badge)](prebuilt/)
 [![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackhobby_lab/)
 
 ## Licence
